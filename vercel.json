@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "name":"Online Job Fair",
     "builds": [
       {
         "src": "server.js",
